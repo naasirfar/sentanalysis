@@ -7,9 +7,9 @@ import pandas as pd
 import praw
 
 reddit = praw.Reddit(
-    client_id="CWcEE_-6-bz21mUIv6pocQ",
-    client_secret="1AAn-dhjzKXqT0Yc9W5ia7FuLEU2Fw",
-    user_agent="web:com.example.myredditapp:v1.2.3 (by u/naasirfqi)",
+    client_id="not",
+    client_secret="your",
+    user_agent="business",
 
 )
 
